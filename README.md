@@ -2,7 +2,7 @@
 
 <div align="left">
 
-[![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)
+[![Automated by Buddy](https://assets.buddy.works/automated-dark.svg)](https://buddy.works)
   
 </div>
 
