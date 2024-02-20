@@ -9,3 +9,7 @@
 
 [![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)<br>
 <sub><sup>Automated by Buddy - https://buddy.works</sup></sub>
+
+
+[![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)
+<sub><sup>[Automated by Buddy - https://buddy.works](https://buddy.works)</sup></sub>
