@@ -1,8 +1,11 @@
 # New Project 
 
 <p align="right">
-  [![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)
+  <a href="https://buddy.works"><img src="https://assets.buddy.works/automated-white.svg" alt="Automated by Buddy" /></a>
 </p>
+
+  [![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)
+
 
 
 
