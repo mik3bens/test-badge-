@@ -1,8 +1,7 @@
 # New Project 
 
-[![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)
+<p align="right">[![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)</p>
 
-[<figure><img src="https://buddy.works" /><figcaption>Automated by Buddy](https://assets.buddy.works/automated-white.svg)</figcaption></figure>
 
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-8892BF.svg)](https://php.net/)
