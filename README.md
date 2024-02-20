@@ -1,9 +1,22 @@
 # New Project
 Welcome to the Next.js App project! This project leverages the power of Next.js to offer a server-rendered React application. It is automated by Buddy to streamline the development, testing, and deployment processes. Make sure you have Node.js installed to get started with this Next.js application.
 
-| [![Uptime Robot ratio (24h)](https://badgen.net/uptime-robot/day/m784813562-93c7dab381e24ccdb679c5d2)](https://stats.uptimerobot.com/QAMQli6XQM) [![buddy branch](https://app.buddy.works/czuli/buddy-app/repository/branch/Angular/badge.svg?token=a444ae6b55d5550dee2a72f799f71b909c11e2f035bd8150ba166cfc5305f906 "buddy branch")](https://app.buddy.works/czuli/buddy-app/repository/branch/undefined) ![Docker Pulls](https://img.shields.io/docker/pulls/buddy/repman) ![License](https://img.shields.io/github/license/repman-io/repman) | <a href="https://buddy.works"><img src="https://assets.buddy.works/automated-white.svg" alt="Automated by Buddy" /></a> |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------:|
+<div align="left">
 
+[![Uptime Robot ratio (24h)](https://badgen.net/uptime-robot/day/m784813562-93c7dab381e24ccdb679c5d2)](https://stats.uptimerobot.com/QAMQli6XQM)
+[![buddy branch](https://app.buddy.works/czuli/buddy-app/repository/branch/Angular/badge.svg?token=a444ae6b55d5550dee2a72f799f71b909c11e2f035bd8150ba166cfc5305f906 "buddy branch")](https://app.buddy.works/czuli/buddy-app/repository/branch/undefined)
+![Docker Pulls](https://img.shields.io/docker/pulls/buddy/repman)
+![License](https://img.shields.io/github/license/repman-io/repman)
+
+</div>
+
+<div align="right">
+
+  <a href="https://buddy.works">
+    <img src="https://assets.buddy.works/automated-white.svg" alt="Automated by Buddy" />
+  </a>
+  
+</div>
 
 
 ## Quick Links
@@ -43,10 +56,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to Buddy for automating our builds and deployments.
 - Thank you to all our contributors who help make this project better every day.
-
-
-
-
-
-
-
