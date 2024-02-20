@@ -1,5 +1,5 @@
 # New Project
-Welcome to the New Project! This project is automated by Buddy and aims to provide a seamless experience for PHP developers. Ensure you're running PHP version 7.4 or higher to get started.
+Welcome to the Next.js App project! This project leverages the power of Next.js to offer a server-rendered React application. It is automated by Buddy to streamline the development, testing, and deployment processes. Make sure you have Node.js installed to get started with this Next.js application.
 
 <div align="left">
 
@@ -10,12 +10,13 @@ Welcome to the New Project! This project is automated by Buddy and aims to provi
 ![License](https://img.shields.io/github/license/repman-io/repman)
 
 </div>
+<div align="right">
 
-<p align="right">
   <a href="https://buddy.works">
     <img src="https://assets.buddy.works/automated-white.svg" alt="Automated by Buddy" />
   </a>
-</p>
+  
+</div>
 
 
 
