@@ -2,6 +2,8 @@
 
 [![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)
 
+[<figure><img src="https://buddy.works" /><figcaption>Automated by Buddy](https://assets.buddy.works/automated-white.svg)</figcaption></figure>
+
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-8892BF.svg)](https://php.net/)
 [![Uptime Robot ratio (24h)](https://badgen.net/uptime-robot/day/m784813562-93c7dab381e24ccdb679c5d2)](https://stats.uptimerobot.com/QAMQli6XQM)
