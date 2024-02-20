@@ -1,5 +1,10 @@
 # New Project
-Welcome to the Next.js App project! This project leverages the power of Next.js to offer a server-rendered React application. It is automated by Buddy to streamline the development, testing, and deployment processes. Make sure you have Node.js installed to get started with this Next.js application.
+
+<div align="left">
+
+[![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)
+  
+</div>
 
 <div align="left">
 
@@ -10,16 +15,9 @@ Welcome to the Next.js App project! This project leverages the power of Next.js 
 
 </div>
 
-<div align="right">
+Welcome to the Next.js App project! This project leverages the power of Next.js to offer a server-rendered React application. It is automated by Buddy to streamline the development, testing, and deployment processes. Make sure you have Node.js installed to get started with this Next.js application.
 
-  <a href="https://buddy.works">
-    <img src="https://assets.buddy.works/automated-white.svg" alt="Automated by Buddy" />
-  </a>
 
-  [![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)
-
-  
-</div>
 
 
 ## Quick Links
