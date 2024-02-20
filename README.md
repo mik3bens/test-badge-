@@ -15,6 +15,9 @@ Welcome to the Next.js App project! This project leverages the power of Next.js 
   <a href="https://buddy.works">
     <img src="https://assets.buddy.works/automated-white.svg" alt="Automated by Buddy" />
   </a>
+
+  [![Automated by Buddy](https://assets.buddy.works/automated-white.svg)](https://buddy.works)
+
   
 </div>
 
